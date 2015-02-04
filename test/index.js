@@ -48,9 +48,27 @@ describe('Codes', function () {
     });
 
     it('get data by region title', function () {
-        codes.getRegionsByTitle('Республика Бурятия', function (err, region) {
-          console.log(region);
+        codes.getRegionByTitle('Республика Бурятия', function (err, region) {
           expect(region.code).to.eql('03');
         });
     });
+
+    it('get data by region title - with error', function () {
+        codes.getRegionByTitle('Республика Бу', function (err, region) {
+          expect(err).to.be.a(Error);
+        });
+    });
+
+    it('get data by region iso 3166-2', function () {
+        codes.getRegionByISO31662('RU-IRK', function (err, region) {          
+          expect(region.code).to.eql('38');
+        });
+    });
+
+    it('get data by region iso 3166-2 - with error', function () {
+        codes.getRegionByISO31662('RU-I', function (err, region) {
+          expect(err).to.be.a(Error);
+        });
+    });
+
 });

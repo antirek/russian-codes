@@ -15,24 +15,57 @@ codes.prototype.isData = function () {
 codes.prototype.getRegionsByType = function (type, callback) {
     type = type.toLowerCase();
     this.getDataByField('type', type, function (err, arr) {
-        callback(err, arr);
+        if(err) { 
+            callback(err); 
+        } else {
+            callback(null, arr);
+        }
     });
 };
 
-codes.prototype.getRegionsByTitle = function (title, callback) {
+codes.prototype.getRegionByTitle = function (title, callback) {
     this.getDataByField('title', title, function (err, arr) {
-        callback(null, arr[0]);
+        if(err) { 
+            callback(err); 
+        } else {
+            callback(null, arr[0]);
+        }
+    });
+};
+
+codes.prototype.getRegionByISO31662 = function (code, callback) {
+    this.getDataByField('code_iso_31662', code, function (err, arr) {
+        if(err) { 
+            callback(err); 
+        } else {
+            callback(null, arr[0]);
+        }
+    });
+};
+
+codes.prototype.search = function (text, callback) {
+    this.getDataByField('title', title, function (err, arr) {
+        if(err) { 
+            callback(err);
+        } else {
+            callback(null, arr[0]);
+        }
     });
 };
 
 codes.prototype.getDataByField = function (field, value, callback) {
     if (!this.isData()) {
-        callback(new Error('No data'));
+        callback(new Error('No loaded data'));
     } else {
         var arr = this.data.filter(function (element) {
             return element[field] == value;
         });
-        callback(null, arr);
+
+        if(arr.length > 0){ 
+            callback(null, arr); 
+        }else{
+            callback(new Error('No find data'));
+        }
     }
 };
 
