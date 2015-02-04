@@ -13,12 +13,24 @@ codes.prototype.isData = function () {
 };
 
 codes.prototype.getRegionsByType = function (type, callback) {
+    type = type.toLowerCase();
+    this.getDataByField('type', type, function (err, arr) {
+        callback(err, arr);
+    });
+};
+
+codes.prototype.getRegionsByTitle = function (title, callback) {
+    this.getDataByField('title', title, function (err, arr) {
+        callback(null, arr[0]);
+    });
+};
+
+codes.prototype.getDataByField = function (field, value, callback) {
     if (!this.isData()) {
         callback(new Error('No data'));
     } else {
-        var type = type.toLowerCase();
         var arr = this.data.filter(function (element) {
-            return element.type == type;
+            return element[field] == value;
         });
         callback(null, arr);
     }

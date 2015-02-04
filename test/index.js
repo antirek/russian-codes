@@ -46,4 +46,11 @@ describe('Codes', function () {
           expect(data.length).to.eql(3);
         });
     });
+
+    it('get data by region title', function () {
+        codes.getRegionsByTitle('Республика Бурятия', function (err, region) {
+          console.log(region);
+          expect(region.code).to.eql('03');
+        });
+    });
 });
