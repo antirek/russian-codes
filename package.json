@@ -1,0 +1,26 @@
+{
+  "name": "russian-codes",
+  "version": "0.0.1",
+  "description": "Russian Federation structure",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antirek/russian-codes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antirek/russian-codes/issues"
+  },
+  "homepage": "https://github.com/antirek/russian-codes",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.1.0"
+  }
+}
