@@ -68,7 +68,7 @@ Find regions by type
 
 
 `````
-codes.getRegionByType('Область', function(err, array){
+codes.getRegionsByType('Область', function(err, array){
     console.log(array);
 });
 
