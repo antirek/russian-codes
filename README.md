@@ -11,7 +11,7 @@ Use
 ===
 
 `````
-var Russian = require('./index');
+var Russian = require('russian-codes');
 var codes = new Russian();
 
 codes.loadData(function () {
