@@ -12,44 +12,33 @@ codes.prototype.isData = function () {
     return (typeof this.data == 'object');
 };
 
+codes.prototype.runCallback = function(err, data, callback){
+    if (err) { 
+        callback(err);
+    } else {
+        callback(null, data);
+    }
+}
+
 codes.prototype.getRegionsByType = function (type, callback) {
     type = type.toLowerCase();
+    var that = this;
     this.getDataByField('type', type, function (err, arr) {
-        if(err) { 
-            callback(err); 
-        } else {
-            callback(null, arr);
-        }
+        that.runCallback(err, arr, callback);
     });
 };
 
 codes.prototype.getRegionByTitle = function (title, callback) {
+    var that = this;
     this.getDataByField('title', title, function (err, arr) {
-        if(err) { 
-            callback(err); 
-        } else {
-            callback(null, arr[0]);
-        }
+        that.runCallback(err, arr ? arr[0] : '',  callback);
     });
 };
 
 codes.prototype.getRegionByISO31662 = function (code, callback) {
+    var that = this;
     this.getDataByField('code_iso_31662', code, function (err, arr) {
-        if(err) { 
-            callback(err); 
-        } else {
-            callback(null, arr[0]);
-        }
-    });
-};
-
-codes.prototype.search = function (text, callback) {
-    this.getDataByField('title', title, function (err, arr) {
-        if(err) { 
-            callback(err);
-        } else {
-            callback(null, arr[0]);
-        }
+        that.runCallback(err, arr ? arr[0] : '', callback);
     });
 };
 
@@ -61,7 +50,7 @@ codes.prototype.getDataByField = function (field, value, callback) {
             return element[field] == value;
         });
 
-        if(arr.length > 0){ 
+        if (arr.length > 0) { 
             callback(null, arr); 
         }else{
             callback(new Error('No find data'));

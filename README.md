@@ -32,6 +32,50 @@ codes.loadData(function () {
     
 `````
 
+API
+===
+
+
+**codes.getRegionByTitle(title, callback)**
+
+Find region by title
+
+
+`````
+codes.getRegionByTitle('Республика Крым', function(err, region){
+    console.log(region);
+});
+
+`````
+
+
+**codes.getRegionByISO31662(code, callback)**
+
+Find region by code ISO 3166-2
+
+
+`````
+codes.getRegionByISO31662('RU-IRK', function(err, region){
+    console.log(region);
+});
+
+`````
+
+
+**codes.getRegionsByType(type, callback)**
+
+Find regions by type
+
+
+`````
+codes.getRegionByType('Область', function(err, array){
+    console.log(array);
+});
+
+`````
+
+
+
 
 Links
 =====

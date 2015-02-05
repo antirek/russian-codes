@@ -1,7 +1,7 @@
 {
   "name": "russian-codes",
   "version": "0.0.1",
-  "description": "Russian Federation structure",
+  "description": "Russian Federation region codes",
   "main": "index.js",
   "directories": {
     "test": "test"
