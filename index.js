@@ -28,6 +28,13 @@ codes.prototype.getRegionsByType = function (type, callback) {
     });
 };
 
+codes.prototype.getTypes = function () {   
+    return [
+        'область', 'край', 'республика',
+        'город федерального значения', 'автономная область', 'автономный округ'
+        ];
+};
+
 codes.prototype.getRegionByTitle = function (title, callback) {
     var that = this;
     this.getDataByField('title', title, function (err, arr) {
