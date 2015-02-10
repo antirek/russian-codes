@@ -1,6 +1,6 @@
 {
   "name": "russian-codes",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Russian Federation region codes",
   "main": "index.js",
   "directories": {

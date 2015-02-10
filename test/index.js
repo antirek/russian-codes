@@ -59,6 +59,18 @@ describe('Codes', function () {
         });
     });
 
+    it('get data by county title', function () {
+        codes.getCountyByTitle('Уральский', function (err, county) {
+          expect(county.code).to.eql('6');
+        });
+    });
+
+    it('get data by county title - with error', function () {
+        codes.getCountyByTitle('Уральский федеральный', function (err, region) {
+          expect(err).to.be.a(Error);
+        });
+    });
+
     it('get data by region iso 3166-2', function () {
         codes.getRegionByISO31662('RU-IRK', function (err, region) {          
           expect(region.code).to.eql('38');
@@ -68,6 +80,18 @@ describe('Codes', function () {
     it('get data by region iso 3166-2 - with error', function () {
         codes.getRegionByISO31662('RU-I', function (err, region) {
           expect(err).to.be.a(Error);
+        });
+    });
+
+    it('get all counties', function () {
+        codes.getCounties(function (err, array) {
+          expect(array.length).to.eql(9);
+        });
+    });
+
+    it('get all regions', function () {
+        codes.getRegions(function (err, array) {
+          expect(array.length).to.eql(85);
         });
     });
 

@@ -23,12 +23,12 @@ codes.prototype.runCallback = function(err, data, callback){
 codes.prototype.getRegionsByType = function (type, callback) {
     type = type.toLowerCase();
     var that = this;
-    this.getDataByField('type', type, function (err, arr) {
+    this.getDataByField('regions', 'type', type, function (err, arr) {
         that.runCallback(err, arr, callback);
     });
 };
 
-codes.prototype.getTypes = function () {   
+codes.prototype.getRegionTypes = function () {   
     return [
         'область', 'край', 'республика',
         'город федерального значения', 'автономная область', 'автономный округ'
@@ -37,28 +37,58 @@ codes.prototype.getTypes = function () {
 
 codes.prototype.getRegionByTitle = function (title, callback) {
     var that = this;
-    this.getDataByField('title', title, function (err, arr) {
+    this.getDataByField('regions', 'title', title, function (err, arr) {
         that.runCallback(err, arr ? arr[0] : '',  callback);
+    });
+};
+
+codes.prototype.getCountyByTitle = function (title, callback) {
+    var that = this;
+    this.getDataByField('counties', 'title', title, function (err, arr) {
+        that.runCallback(err, arr ? arr[0] : '',  callback);
+    });
+};
+
+codes.prototype.getCounties = function (callback) {
+    var that = this;
+    this.getDataByField('counties', null, null, function (err, arr) {
+        that.runCallback(err, arr,  callback);
+    });
+};
+
+codes.prototype.getRegions = function (callback) {
+    var that = this;
+    this.getDataByField('regions', null, null, function (err, arr) {
+        that.runCallback(err, arr,  callback);
     });
 };
 
 codes.prototype.getRegionByISO31662 = function (code, callback) {
     var that = this;
-    this.getDataByField('code_iso_31662', code, function (err, arr) {
+    this.getDataByField('regions', 'code_iso_31662', code, function (err, arr) {
         that.runCallback(err, arr ? arr[0] : '', callback);
     });
 };
 
-codes.prototype.getDataByField = function (field, value, callback) {
+codes.prototype.getDataByField = function (section, field, value, callback) {
+    var result = null;
+    if (!section) section = 'regions';
+
     if (!this.isData()) {
         callback(new Error('No loaded data'));
     } else {
-        var arr = this.data.filter(function (element) {
-            return element[field] == value;
-        });
+        var arr = Array.prototype.slice.call(this.data[section], 0);
 
-        if (arr.length > 0) { 
-            callback(null, arr); 
+        if (field && value) {
+            result = arr.filter(function (element) {
+                return element[field] == value;
+            });
+        } else {
+            result = arr;
+        }
+
+        if (result.length > 0) { 
+            callback(null, result); 
         }else{
             callback(new Error('No find data'));
         }
