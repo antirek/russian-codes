@@ -63,6 +63,16 @@ codes.prototype.getRegions = function (callback) {
     });
 };
 
+codes.prototype.getRegionsByArray = function (arr_in, callback) {
+    var that = this;
+    this.getDataByField('regions', null, null, function (err, arr) {
+        var arr2 = arr.filter(function (element) {
+            return (arr_in.indexOf(element.code) != -1)
+        });
+        callback(null, arr2);
+    });
+};
+
 codes.prototype.getRegionByISO31662 = function (code, callback) {
     var that = this;
     this.getDataByField('regions', 'code_iso_31662', code, function (err, arr) {

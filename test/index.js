@@ -95,4 +95,10 @@ describe('Codes', function () {
         });
     });
 
+    it('get regions by array', function () {
+        codes.getRegionsByArray(["01", "02"], function (err, array) {         
+          expect(array.length).to.eql(2);
+        });
+    });
+
 });
