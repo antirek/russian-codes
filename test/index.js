@@ -53,6 +53,12 @@ describe('Codes', function () {
         });
     });
 
+    it('get data by region code', function () {
+        codes.getRegionByCode('03', function (err, region) {
+          expect(region.title).to.eql('Республика Бурятия');
+        });
+    });
+
     it('get data by region title - with error', function () {
         codes.getRegionByTitle('Республика Бу', function (err, region) {
           expect(err).to.be.a(Error);
@@ -62,6 +68,12 @@ describe('Codes', function () {
     it('get data by county title', function () {
         codes.getCountyByTitle('Уральский', function (err, county) {
           expect(county.code).to.eql('6');
+        });
+    });
+
+    it('get data by county code', function () {
+        codes.getCountyByCode(6, function (err, county) {
+          expect(county.title).to.eql('Уральский');
         });
     });
 
@@ -101,4 +113,31 @@ describe('Codes', function () {
         });
     });
 
+    it('get regions by array 2', function () {
+        codes.getCountyByTitle('Уральский', function (err, county) {
+          codes.getRegionsByArray(county.regions, function (err, array) {         
+            expect(array.length).to.eql(6);
+          });
+        });
+    });
+
+    it('get regions by county code', function () {
+        codes.getRegionsByCountyCode(6, function (err, array) {         
+            expect(array.length).to.eql(6);
+        });
+    });
+
+    it('check equal sum counties.regions and regions', function () {
+        codes.getCounties(function (err, counties) {
+            var sum = 0;
+            counties.map(function (element) {
+                sum += element.regions.length;
+            });
+            expect(sum).to.eql(85);            
+        });
+    });
+
+    it('get regions by county code', function () {
+        codes._make_region_county();
+    });
 });
