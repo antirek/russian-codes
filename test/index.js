@@ -53,6 +53,12 @@ describe('Codes', function () {
         });
     });
 
+    it('get data by region title and check county code', function () {
+        codes.getRegionByTitle('Республика Бурятия', function (err, region) {
+          expect(region.county).to.eql('5');
+        });
+    });
+
     it('get data by region code', function () {
         codes.getRegionByCode('03', function (err, region) {
           expect(region.title).to.eql('Республика Бурятия');
@@ -137,7 +143,4 @@ describe('Codes', function () {
         });
     });
 
-    it('get regions by county code', function () {
-        codes._make_region_county();
-    });
 });

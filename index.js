@@ -6,31 +6,50 @@ var codes = function (options) {
 
     this.dataFile = options['dataFile'] || path.resolve(__dirname, './data/codes.json');
     this.data = null;
-    this.region_county = {};    
+    this.dataLoaded = false;
+    this.regionCounty = {};
 };
 
-codes.prototype._make_region_county = function () {
+codes.prototype._makeRegionCounty = function (callback) {
     var that = this;
     this.getCounties(function (err, counties) {
         counties.map(function (county) {
-            county.regions.map( function (region) {                
-                that.region_county[region] = county.code;
+            county.regions.map(function (region) {                
+                that.regionCounty[region] = county.code;
             });
-        });        
+        });
+        callback();
     });
 };
 
-codes.prototype._isData = function () {
-    return (typeof this.data == 'object');
+codes.prototype._appendCountyToRegion = function (region) {
+    region['county'] = this.regionCounty[region.code];
+    return region;
 };
 
-codes.prototype._runCallback = function(err, data, callback){
+codes.prototype._appendCountyToAllRegions = function (callback) {
+    var that = this, 
+        arr2 = [];
+    this.getDataByField('regions', null, null, function (err, arr) {
+        arr2 = arr.map(function (region) {
+            return that._appendCountyToRegion(region);
+        });
+        that.data.regions = arr2;
+        callback();
+    });
+};
+
+codes.prototype._isDataLoaded = function () {
+    return (typeof this.data == 'object' );
+};
+
+codes.prototype._runCallback = function (err, data, callback) {
     if (err) { 
         callback(err);
     } else {
         callback(null, data);
     }
-}
+};
 
 codes.prototype.getRegionsByType = function (type, callback) {
     type = type.toLowerCase();
@@ -60,11 +79,6 @@ codes.prototype.getRegionByCode = function (code, callback) {
         if(!err) arr[0] = that._appendCountyToRegion(arr[0]);
         that._runCallback(err, arr ? arr[0] : '',  callback);
     });
-};
-
-codes.prototype._appendCountyToRegion = function (region) {
-    region['county'] = this.region_county[region.code];
-    return region;
 };
 
 codes.prototype.getRegions = function (callback) {
@@ -125,7 +139,7 @@ codes.prototype.getDataByField = function (section, field, value, callback) {
     var result = null;
     if (!section) section = 'regions';
 
-    if (!this._isData()) {
+    if (!this._isDataLoaded()) {
         callback(new Error('No loaded data'));
     } else {
         var arr = Array.prototype.slice.call(this.data[section], 0);
@@ -151,11 +165,16 @@ codes.prototype.loadData = function (callback) {
     fs.readFile(this.dataFile, function (err, data) {
         try {
             that.data = JSON.parse(data);
-            callback(null);
+
+            that._makeRegionCounty(function () {
+                that._appendCountyToAllRegions(function () {
+                    that.dataLoaded = true;                    
+                    callback(null);
+                });
+            });
         } catch (e) {
             callback(e);
-        }
-        that._make_region_county();
+        };   
     });
 };
 
