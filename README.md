@@ -15,16 +15,17 @@ var Russian = require('russian-codes');
 var codes = new Russian();
 
 codes.loadData(function () {
-    codes.getRegionByTitle('Республика Бурятия', function(err, region){
+    codes.getRegionByTitle('Иркутская область', function (err, region) {
         console.log(region);
         /* region example
-            {
-                "title": "Республика Бурятия",
-                "code": "03",
-                "gibdd": "03",
-                "okato": "81",
-                "code_iso_31662": "RU-BU",
-                "type": "республика"
+            { 
+                title: 'Иркутская область',
+                code: '38',
+                gibdd: '38, 138, 85',     //автомобильные коды
+                okato: '25',
+                code_iso_31662: 'RU-IRK',
+                type: 'область',
+                county: '5'       // федеральный округ
             }
         */
     });
@@ -35,46 +36,7 @@ codes.loadData(function () {
 API
 ===
 
-
-**codes.getRegionByTitle(title, callback)**
-
-Find region by title
-
-
-`````
-codes.getRegionByTitle('Республика Крым', function(err, region){
-    console.log(region);
-});
-
-`````
-
-
-**codes.getRegionByISO31662(code, callback)**
-
-Find region by code ISO 3166-2
-
-
-`````
-codes.getRegionByISO31662('RU-IRK', function(err, region){
-    console.log(region);
-});
-
-`````
-
-
-**codes.getRegionsByType(type, callback)**
-
-Find regions by type
-
-
-`````
-codes.getRegionsByType('Область', function(err, array){
-    console.log(array);
-});
-
-`````
-
-
+See more [wiki](https://github.com/antirek/russian-codes/wiki/API)
 
 
 Links

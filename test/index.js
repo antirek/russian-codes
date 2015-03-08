@@ -90,7 +90,7 @@ describe('Codes', function () {
     });
 
     it('get data by region iso 3166-2', function () {
-        codes.getRegionByISO31662('RU-IRK', function (err, region) {          
+        codes.getRegionByISO31662('RU-IRK', function (err, region) {
           expect(region.code).to.eql('38');
         });
     });
