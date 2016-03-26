@@ -1,0 +1,1488 @@
+[
+    {
+        "title": "Лабытнанги",
+        "code": "34992",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B1%D1%8B%D1%82%D0%BD%D0%B0%D0%BD%D0%B3%D0%B8",
+        "region": "Ямало-Ненецкий АО"
+    },
+    {
+        "title": "Надым",
+        "code": "3499[3]",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B4%D1%8B%D0%BC",
+        "region": "Ямало-Ненецкий АО"
+    },
+    {
+        "title": "Губкинский",
+        "code": "34936",
+        "link": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B1%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9",
+        "region": "Ямало-Ненецкий АО"
+    },
+    {
+        "title": "Любим",
+        "code": "48543",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%B8%D0%BC",
+        "region": "Ярославская область"
+    },
+    {
+        "title": "Салехард",
+        "code": "34922",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B5%D1%85%D0%B0%D1%80%D0%B4",
+        "region": "Ямало-Ненецкий АО"
+    },
+    {
+        "title": "Пошехонье",
+        "code": "48546",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%88%D0%B5%D1%85%D0%BE%D0%BD%D1%8C%D0%B5_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Ярославская область"
+    },
+    {
+        "title": "Тутаев",
+        "code": "48533",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%82%D0%B0%D0%B5%D0%B2",
+        "region": "Ярославская область"
+    },
+    {
+        "title": "Переславль-Залесский",
+        "code": "48535",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C-%D0%97%D0%B0%D0%BB%D0%B5%D1%81%D1%81%D0%BA%D0%B8%D0%B9",
+        "region": "Ярославская область"
+    },
+    {
+        "title": "Гаврилов-Ям",
+        "code": "48534",
+        "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%D0%BE%D0%B2-%D0%AF%D0%BC",
+        "region": "Ярославская область"
+    },
+    {
+        "title": "Данилов",
+        "code": "48538",
+        "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Ярославская область"
+    },
+    {
+        "title": "Шали",
+        "code": null,
+        "link": "https://ru.wikipedia.org/wiki/1378",
+        "region": "Чечня"
+    },
+    {
+        "title": "Верхоянск",
+        "code": "41165",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BE%D1%8F%D0%BD%D1%81%D0%BA",
+        "region": "Якутия"
+    },
+    {
+        "title": "Юрюзань",
+        "code": "35147",
+        "link": "https://ru.wikipedia.org/wiki/%D0%AE%D1%80%D1%8E%D0%B7%D0%B0%D0%BD%D1%8C_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Челябинская область"
+    },
+    {
+        "title": "Югорск",
+        "code": "34675",
+        "link": "https://ru.wikipedia.org/wiki/%D0%AE%D0%B3%D0%BE%D1%80%D1%81%D0%BA",
+        "region": "Ханты-Мансийский АО — Югра"
+    },
+    {
+        "title": "Тарко-Сале",
+        "code": "34997",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D0%BA%D0%BE-%D0%A1%D0%B0%D0%BB%D0%B5",
+        "region": "Ямало-Ненецкий АО"
+    },
+    {
+        "title": "Удачный",
+        "code": "41136",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B4%D0%B0%D1%87%D0%BD%D1%8B%D0%B9",
+        "region": "Якутия"
+    },
+    {
+        "title": "Удомля",
+        "code": "48255",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B4%D0%BE%D0%BC%D0%BB%D1%8F",
+        "region": "Тверская область"
+    },
+    {
+        "title": "Конаково",
+        "code": "48242",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B0%D0%BA%D0%BE%D0%B2%D0%BE",
+        "region": "Тверская область"
+    },
+    {
+        "title": "Тюмень",
+        "code": "3452",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D1%8E%D0%BC%D0%B5%D0%BD%D1%8C",
+        "region": "Тюменская область"
+    },
+    {
+        "title": "Зеленодольск",
+        "code": "84371",
+        "link": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA_(%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D1%82%D0%B0%D0%BD)",
+        "region": "Татарстан"
+    },
+    {
+        "title": "Мирный",
+        "code": "411 36",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_(%D0%AF%D0%BA%D1%83%D1%82%D0%B8%D1%8F)",
+        "region": "Якутия"
+    },
+    {
+        "title": "Сухой Лог",
+        "code": "34373",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%85%D0%BE%D0%B9_%D0%9B%D0%BE%D0%B3_(%D0%A1%D0%B2%D0%B5%D1%80%D0%B4%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Кимры",
+        "code": "48236",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC%D1%80%D1%8B",
+        "region": "Тверская область"
+    },
+    {
+        "title": "Красный Холм",
+        "code": "48237",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%A5%D0%BE%D0%BB%D0%BC",
+        "region": "Тверская область"
+    },
+    {
+        "title": "Верхотурье",
+        "code": "34389",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BE%D1%82%D1%83%D1%80%D1%8C%D0%B5",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Лениногорск",
+        "code": "85595",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA_(%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D1%82%D0%B0%D0%BD)",
+        "region": "Татарстан"
+    },
+    {
+        "title": "Новая Ляля",
+        "code": "34388",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%9B%D1%8F%D0%BB%D1%8F",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Тетюши",
+        "code": "84373",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%82%D1%8E%D1%88%D0%B8",
+        "region": "Татарстан"
+    },
+    {
+        "title": "Иннополис",
+        "code": "+7843",
+        "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%81",
+        "region": "Татарстан"
+    },
+    {
+        "title": "Волчанск",
+        "code": "34383",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D1%81%D0%BA_(%D0%A1%D0%B2%D0%B5%D1%80%D0%B4%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Билибино",
+        "code": "42738",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BB%D0%B8%D0%B1%D0%B8%D0%BD%D0%BE",
+        "region": "Чукотский АО"
+    },
+    {
+        "title": "Чулым",
+        "code": "38350",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A7%D1%83%D0%BB%D1%8B%D0%BC_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Новосибирская область"
+    },
+    {
+        "title": "Лянтор",
+        "code": "34638",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8F%D0%BD%D1%82%D0%BE%D1%80",
+        "region": "Ханты-Мансийский АО — Югра"
+    },
+    {
+        "title": "Спасск-Дальний",
+        "code": "42352",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA-%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9",
+        "region": "Приморский край"
+    },
+    {
+        "title": "Узловая",
+        "code": "48731",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B7%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F",
+        "region": "Тульская область"
+    },
+    {
+        "title": "Новокубанск",
+        "code": "86195",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BA%D1%83%D0%B1%D0%B0%D0%BD%D1%81%D0%BA",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Боготол",
+        "code": "39157",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%82%D0%BE%D0%BB_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Красноярский край"
+    },
+    {
+        "title": "Дальнегорск",
+        "code": "42373",
+        "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5%D0%B3%D0%BE%D1%80%D1%81%D0%BA",
+        "region": "Приморский край"
+    },
+    {
+        "title": "Каменск-Шахтинский",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA-%D0%A8%D0%B0%D1%85%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9",
+        "region": "Ростовская область"
+    },
+    {
+        "title": "Щёкино",
+        "code": "48751",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A9%D1%91%D0%BA%D0%B8%D0%BD%D0%BE",
+        "region": "Тульская область"
+    },
+    {
+        "title": "Гулькевичи",
+        "code": "86160",
+        "link": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%BB%D1%8C%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B8",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Нефтегорск",
+        "code": "84670",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%84%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%81%D0%BA_(%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Самарская область"
+    },
+    {
+        "title": "Находка",
+        "code": "4236",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%85%D0%BE%D0%B4%D0%BA%D0%B0_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Приморский край"
+    },
+    {
+        "title": "Кыштым",
+        "code": "35151",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8B%D1%88%D1%82%D1%8B%D0%BC",
+        "region": "Челябинская область"
+    },
+    {
+        "title": "Мантурово",
+        "code": "49446",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%BE",
+        "region": "Костромская область"
+    },
+    {
+        "title": "Саяногорск",
+        "code": "39042",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%8F%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA",
+        "region": "Хакасия"
+    },
+    {
+        "title": "Спасск",
+        "code": "84151",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA_(%D0%9F%D0%B5%D0%BD%D0%B7%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Пензенская область"
+    },
+    {
+        "title": "Лесозаводск",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA",
+        "region": "Приморский край"
+    },
+    {
+        "title": "Александровск",
+        "code": "34274",
+        "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA_(%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B0%D0%B9)",
+        "region": "Пермский край"
+    },
+    {
+        "title": "Дальнереченск",
+        "code": "42356",
+        "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA",
+        "region": "Приморский край"
+    },
+    {
+        "title": "Опочка",
+        "code": "81138",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%BE%D1%87%D0%BA%D0%B0",
+        "region": "Псковская область"
+    },
+    {
+        "title": "Нея",
+        "code": "49444",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%8F_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Костромская область"
+    },
+    {
+        "title": "Когалым",
+        "code": "34667",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B3%D0%B0%D0%BB%D1%8B%D0%BC",
+        "region": "Ханты-Мансийский АО — Югра"
+    },
+    {
+        "title": "Железногорск",
+        "code": "47148",
+        "link": "https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA_(%D0%9A%D1%83%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Курская область"
+    },
+    {
+        "title": "Болохово",
+        "code": "48754",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%BE%D1%85%D0%BE%D0%B2%D0%BE",
+        "region": "Тульская область"
+    },
+    {
+        "title": "Усолье",
+        "code": "34244",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BE%D0%BB%D1%8C%D0%B5",
+        "region": "Пермский край"
+    },
+    {
+        "title": "Вяземский",
+        "code": "42153",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D1%8F%D0%B7%D0%B5%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Хабаровский край"
+    },
+    {
+        "title": "Чехов",
+        "code": "496",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%BE%D0%B2_(%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Московская область"
+    },
+    {
+        "title": "Электросталь",
+        "code": "496",
+        "link": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D1%8C",
+        "region": "Московская область"
+    },
+    {
+        "title": "Таганрог",
+        "code": "8634",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3",
+        "region": "Ростовская область"
+    },
+    {
+        "title": "Тимашёвск",
+        "code": "86130",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%B0%D1%88%D1%91%D0%B2%D1%81%D0%BA",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Ак-Довурак",
+        "code": "39433",
+        "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA-%D0%94%D0%BE%D0%B2%D1%83%D1%80%D0%B0%D0%BA",
+        "region": "Тыва"
+    },
+    {
+        "title": "Отрадное",
+        "code": "81362",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D1%80%D0%B0%D0%B4%D0%BD%D0%BE%D0%B5_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Ленинградская область"
+    },
+    {
+        "title": "Усть-Лабинск",
+        "code": "86135",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%8C-%D0%9B%D0%B0%D0%B1%D0%B8%D0%BD%D1%81%D0%BA",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Обь",
+        "code": "38373",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8C_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Новосибирская область"
+    },
+    {
+        "title": "Холм",
+        "code": "81654",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BC_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Новгородская область"
+    },
+    {
+        "title": "Мураши",
+        "code": "83348",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%B0%D1%88%D0%B8",
+        "region": "Кировская область"
+    },
+    {
+        "title": "Сысерть",
+        "code": "34374",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8B%D1%81%D0%B5%D1%80%D1%82%D1%8C_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Верхняя Тура",
+        "code": "34344",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BD%D1%8F%D1%8F_%D0%A2%D1%83%D1%80%D0%B0",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Морозовск",
+        "code": "86384",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D1%81%D0%BA",
+        "region": "Ростовская область"
+    },
+    {
+        "title": "Сим",
+        "code": "35159",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BC_(%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Челябинская область"
+    },
+    {
+        "title": "Барыш",
+        "code": "84253",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D1%8B%D1%88_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Ульяновская область"
+    },
+    {
+        "title": "Ковдор",
+        "code": "81535",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2%D0%B4%D0%BE%D1%80",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Печора",
+        "code": "82142,",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%87%D0%BE%D1%80%D0%B0_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Коми"
+    },
+    {
+        "title": "Старая Купавна",
+        "code": "49651",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%9A%D1%83%D0%BF%D0%B0%D0%B2%D0%BD%D0%B0",
+        "region": "Московская область"
+    },
+    {
+        "title": "Темрюк",
+        "code": "86148",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D1%80%D1%8E%D0%BA",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Большой Камень",
+        "code": "42335",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C",
+        "region": "Приморский край"
+    },
+    {
+        "title": "Учалы",
+        "code": "34791",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A3%D1%87%D0%B0%D0%BB%D1%8B",
+        "region": "Башкортостан"
+    },
+    {
+        "title": "Лыткарино",
+        "code": "495",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8B%D1%82%D0%BA%D0%B0%D1%80%D0%B8%D0%BD%D0%BE",
+        "region": "Московская область"
+    },
+    {
+        "title": "Нолинск",
+        "code": "83368",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D0%BA",
+        "region": "Кировская область"
+    },
+    {
+        "title": "Рославль",
+        "code": "48134",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C",
+        "region": "Смоленская область"
+    },
+    {
+        "title": "Печоры",
+        "code": "81148",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%87%D0%BE%D1%80%D1%8B",
+        "region": "Псковская область"
+    },
+    {
+        "title": "Петухово",
+        "code": "35235",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%83%D1%85%D0%BE%D0%B2%D0%BE_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Курганская область"
+    },
+    {
+        "title": "Володарск",
+        "code": "83136",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D0%BA",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Дивногорск",
+        "code": "39144",
+        "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA",
+        "region": "Красноярский край"
+    },
+    {
+        "title": "Гдов",
+        "code": "81131",
+        "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B4%D0%BE%D0%B2",
+        "region": "Псковская область"
+    },
+    {
+        "title": "Орёл",
+        "code": "4862",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D1%91%D0%BB_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Орловская область"
+    },
+    {
+        "title": "Малая Вишера",
+        "code": "81660",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%92%D0%B8%D1%88%D0%B5%D1%80%D0%B0",
+        "region": "Новгородская область"
+    },
+    {
+        "title": "Дегтярск",
+        "code": "34397",
+        "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B3%D1%82%D1%8F%D1%80%D1%81%D0%BA",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Светогорск",
+        "code": "81378",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA",
+        "region": "Ленинградская область"
+    },
+    {
+        "title": "Славянск-на-Кубани",
+        "code": "86146",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%B0%D0%B2%D1%8F%D0%BD%D1%81%D0%BA-%D0%BD%D0%B0-%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D0%B8",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Галич",
+        "code": "49437",
+        "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%B8%D1%87_(%D0%9A%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Костромская область"
+    },
+    {
+        "title": "Ейск",
+        "code": "86132",
+        "link": "https://ru.wikipedia.org/wiki/%D0%95%D0%B9%D1%81%D0%BA",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Бикин",
+        "code": "42155",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BA%D0%B8%D0%BD_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Хабаровский край"
+    },
+    {
+        "title": "Качканар",
+        "code": "34341",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%87%D0%BA%D0%B0%D0%BD%D0%B0%D1%80",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Ачинск",
+        "code": "39151",
+        "link": "https://ru.wikipedia.org/wiki/%D0%90%D1%87%D0%B8%D0%BD%D1%81%D0%BA",
+        "region": "Красноярский край"
+    },
+    {
+        "title": "Хабаровск",
+        "code": "4212",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA",
+        "region": "Хабаровский край"
+    },
+    {
+        "title": "Любань",
+        "code": "81361",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%B0%D0%BD%D1%8C_(%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Ленинградская область"
+    },
+    {
+        "title": "Мышкин",
+        "code": "48544",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%88%D0%BA%D0%B8%D0%BD",
+        "region": "Ярославская область"
+    },
+    {
+        "title": "Фатеж",
+        "code": "47144",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%82%D0%B5%D0%B6",
+        "region": "Курская область"
+    },
+    {
+        "title": "Лобня",
+        "code": "495,",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B1%D0%BD%D1%8F",
+        "region": "Московская область"
+    },
+    {
+        "title": "Грязовец",
+        "code": "81755",
+        "link": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%8F%D0%B7%D0%BE%D0%B2%D0%B5%D1%86",
+        "region": "Вологодская область"
+    },
+    {
+        "title": "Кулебаки",
+        "code": "83176",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB%D0%B5%D0%B1%D0%B0%D0%BA%D0%B8",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Псков",
+        "code": "8112",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%81%D0%BA%D0%BE%D0%B2",
+        "region": "Псковская область"
+    },
+    {
+        "title": "Кологрив",
+        "code": "49443",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%B3%D1%80%D0%B8%D0%B2",
+        "region": "Костромская область"
+    },
+    {
+        "title": "Тверь",
+        "code": "4822",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B2%D0%B5%D1%80%D1%8C",
+        "region": "Тверская область"
+    },
+    {
+        "title": "Дно",
+        "code": "81135",
+        "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%BD%D0%BE_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Псковская область"
+    },
+    {
+        "title": "Аша",
+        "code": "35159",
+        "link": "https://ru.wikipedia.org/wiki/%D0%90%D1%88%D0%B0",
+        "region": "Челябинская область"
+    },
+    {
+        "title": "Советск",
+        "code": "83375",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA_(%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Кировская область"
+    },
+    {
+        "title": "Каменногорск",
+        "code": "81378",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA",
+        "region": "Ленинградская область"
+    },
+    {
+        "title": "Кадников",
+        "code": "81733",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2",
+        "region": "Вологодская область"
+    },
+    {
+        "title": "Шатура",
+        "code": "49645",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%82%D1%83%D1%80%D0%B0",
+        "region": "Московская область"
+    },
+    {
+        "title": "Туапсе",
+        "code": "86167",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%B0%D0%BF%D1%81%D0%B5",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Димитровград",
+        "code": "84235",
+        "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BC%D0%B8%D1%82%D1%80%D0%BE%D0%B2%D0%B3%D1%80%D0%B0%D0%B4_(%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)",
+        "region": "Ульяновская область"
+    },
+    {
+        "title": "Слободской",
+        "code": "83362",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9",
+        "region": "Кировская область"
+    },
+    {
+        "title": "Электроугли",
+        "code": "49651",
+        "link": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%83%D0%B3%D0%BB%D0%B8",
+        "region": "Московская область"
+    },
+    {
+        "title": "Павлово",
+        "code": "83171",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BE_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4,_%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Артёмовск",
+        "code": null,
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B0%D0%B9",
+        "region": "Красноярский край"
+    },
+    {
+        "title": "Ухта",
+        "code": "8216",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A3%D1%85%D1%82%D0%B0",
+        "region": "Коми"
+    },
+    {
+        "title": "Екатеринбург",
+        "code": "343",
+        "link": "https://ru.wikipedia.org/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Соликамск",
+        "code": "34253",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0%D0%BC%D1%81%D0%BA",
+        "region": "Пермский край"
+    },
+    {
+        "title": "Усинск",
+        "code": "82144",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%B8%D0%BD%D1%81%D0%BA",
+        "region": "Коми"
+    },
+    {
+        "title": "Инта",
+        "code": "82145",
+        "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B0",
+        "region": "Коми"
+    },
+    {
+        "title": "Бирюч",
+        "code": "47247",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D1%8E%D1%87_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Белгородская область"
+    },
+    {
+        "title": "Будённовск",
+        "code": "86559",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B4%D1%91%D0%BD%D0%BD%D0%BE%D0%B2%D1%81%D0%BA",
+        "region": "Ставропольский край"
+    },
+    {
+        "title": "Канаш",
+        "code": "83533",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D1%88",
+        "region": "Чувашия"
+    },
+    {
+        "title": "Суджа",
+        "code": "47143",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B4%D0%B6%D0%B0",
+        "region": "Курская область"
+    },
+    {
+        "title": "Красноуфимск",
+        "code": "34394",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%83%D1%84%D0%B8%D0%BC%D1%81%D0%BA",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Бузулук",
+        "code": "35342",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B7%D1%83%D0%BB%D1%83%D0%BA",
+        "region": "Оренбургская область"
+    },
+    {
+        "title": "Ворсма",
+        "code": "83171",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D1%81%D0%BC%D0%B0",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Новочебоксарск",
+        "code": "8352",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%87%D0%B5%D0%B1%D0%BE%D0%BA%D1%81%D0%B0%D1%80%D1%81%D0%BA",
+        "region": "Чувашия"
+    },
+    {
+        "title": "Колпашево",
+        "code": "38254",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BF%D0%B0%D1%88%D0%B5%D0%B2%D0%BE",
+        "region": "Томская область"
+    },
+    {
+        "title": "Орехово-Зуево",
+        "code": "496",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B5%D1%85%D0%BE%D0%B2%D0%BE-%D0%97%D1%83%D0%B5%D0%B2%D0%BE",
+        "region": "Московская область"
+    },
+    {
+        "title": "Коркино",
+        "code": "35152",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BA%D0%B8%D0%BD%D0%BE",
+        "region": "Челябинская область"
+    },
+    {
+        "title": "Торжок",
+        "code": "48251",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D0%B6%D0%BE%D0%BA",
+        "region": "Тверская область"
+    },
+    {
+        "title": "Геленджик",
+        "code": "86141",
+        "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8%D0%BA",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Малоархангельск",
+        "code": "48679",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%BE%D0%B0%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA_(%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Орловская область"
+    },
+    {
+        "title": "Яхрома",
+        "code": "49622",
+        "link": "https://ru.wikipedia.org/wiki/%D0%AF%D1%85%D1%80%D0%BE%D0%BC%D0%B0",
+        "region": "Московская область"
+    },
+    {
+        "title": "Исилькуль",
+        "code": null,
+        "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+        "region": "Омская область"
+    },
+    {
+        "title": "Черноголовка",
+        "code": "49652",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0",
+        "region": "Московская область"
+    },
+    {
+        "title": "Пушкино",
+        "code": "496",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%BE",
+        "region": "Московская область"
+    },
+    {
+        "title": "Сланцы",
+        "code": "81374",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%B0%D0%BD%D1%86%D1%8B_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Ленинградская область"
+    },
+    {
+        "title": "Выкса",
+        "code": "83177",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%BA%D1%81%D0%B0",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Гаджиево",
+        "code": "81539",
+        "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B4%D0%B6%D0%B8%D0%B5%D0%B2%D0%BE",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Светлоград",
+        "code": "86547",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D0%B4",
+        "region": "Ставропольский край"
+    },
+    {
+        "title": "Старая Русса",
+        "code": "81652",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%A0%D1%83%D1%81%D1%81%D0%B0",
+        "region": "Новгородская область"
+    },
+    {
+        "title": "Апатиты",
+        "code": "81555",
+        "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%B0%D1%82%D0%B8%D1%82%D1%8B",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Ирбит",
+        "code": "34355",
+        "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B1%D0%B8%D1%82",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Нязепетровск",
+        "code": "35156",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D1%8F%D0%B7%D0%B5%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA",
+        "region": "Челябинская область"
+    },
+    {
+        "title": "Кропоткин",
+        "code": "86138",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Североморск",
+        "code": "81537",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Миллерово",
+        "code": "86385",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%BE%D0%B2%D0%BE",
+        "region": "Ростовская область"
+    },
+    {
+        "title": "Фрязино",
+        "code": "49656,",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D1%8F%D0%B7%D0%B8%D0%BD%D0%BE",
+        "region": "Московская область"
+    },
+    {
+        "title": "Ессентуки",
+        "code": "87934",
+        "link": "https://ru.wikipedia.org/wiki/%D0%95%D1%81%D1%81%D0%B5%D0%BD%D1%82%D1%83%D0%BA%D0%B8",
+        "region": "Ставропольский край"
+    },
+    {
+        "title": "Болхов",
+        "code": "48640",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%85%D0%BE%D0%B2",
+        "region": "Орловская область"
+    },
+    {
+        "title": "Серпухов",
+        "code": "496",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%BF%D1%83%D1%85%D0%BE%D0%B2",
+        "region": "Московская область"
+    },
+    {
+        "title": "Кувандык",
+        "code": "35361",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B2%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
+        "region": "Оренбургская область"
+    },
+    {
+        "title": "Кировск",
+        "code": "81531",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D1%81%D0%BA_(%D0%9C%D1%83%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Раменское",
+        "code": "496",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5",
+        "region": "Московская область"
+    },
+    {
+        "title": "Петровск",
+        "code": "84555",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA_(%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Саратовская область"
+    },
+    {
+        "title": "Дзержинск",
+        "code": "8313",
+        "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B7%D0%B5%D1%80%D0%B6%D0%B8%D0%BD%D1%81%D0%BA_(%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Заполярный",
+        "code": "81554",
+        "link": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Кстово",
+        "code": "83145",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%81%D1%82%D0%BE%D0%B2%D0%BE",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Полярные Зори",
+        "code": "81532",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5_%D0%97%D0%BE%D1%80%D0%B8",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Заозёрск",
+        "code": "81556",
+        "link": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BE%D0%B7%D1%91%D1%80%D1%81%D0%BA",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Мурманск",
+        "code": "8152",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Городище",
+        "code": "84158",
+        "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5_(%D0%9F%D0%B5%D0%BD%D0%B7%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Пензенская область"
+    },
+    {
+        "title": "Лесной",
+        "code": "34342",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Полевской",
+        "code": "34350",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Химки",
+        "code": "495,",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%BA%D0%B8",
+        "region": "Московская область"
+    },
+    {
+        "title": "Нижний Новгород",
+        "code": "831",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Приморск",
+        "code": "81378",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BC%D0%BE%D1%80%D1%81%D0%BA_(%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Ленинградская область"
+    },
+    {
+        "title": "Ветлуга",
+        "code": "83150",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%82%D0%BB%D1%83%D0%B3%D0%B0_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Буй",
+        "code": "49435",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B9_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Костромская область"
+    },
+    {
+        "title": "Вологда",
+        "code": "8172",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%B4%D0%B0",
+        "region": "Вологодская область"
+    },
+    {
+        "title": "Краснодар",
+        "code": "861",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Сыктывкар",
+        "code": "8212",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80",
+        "region": "Коми"
+    },
+    {
+        "title": "Нарьян-Мар",
+        "code": "81853",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D1%8C%D1%8F%D0%BD-%D0%9C%D0%B0%D1%80",
+        "region": "Ненецкий АО"
+    },
+    {
+        "title": "Волхов",
+        "code": "81363",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%85%D0%BE%D0%B2_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Ленинградская область"
+    },
+    {
+        "title": "Новопавловск",
+        "code": "87938",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA",
+        "region": "Ставропольский край"
+    },
+    {
+        "title": "Дмитриев",
+        "code": "47150",
+        "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Курская область"
+    },
+    {
+        "title": "Полярный",
+        "code": "81551",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Богородск",
+        "code": "83170",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Княгинино",
+        "code": "83166",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BD%D1%8F%D0%B3%D0%B8%D0%BD%D0%B8%D0%BD%D0%BE",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Никольское",
+        "code": "81361",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_(%D0%A2%D0%BE%D1%81%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)",
+        "region": "Ленинградская область"
+    },
+    {
+        "title": "Емва",
+        "code": "82139",
+        "link": "https://ru.wikipedia.org/wiki/%D0%95%D0%BC%D0%B2%D0%B0",
+        "region": "Коми"
+    },
+    {
+        "title": "Ясный",
+        "code": "35368",
+        "link": "https://ru.wikipedia.org/wiki/%D0%AF%D1%81%D0%BD%D1%8B%D0%B9",
+        "region": "Оренбургская область"
+    },
+    {
+        "title": "Новосиль",
+        "code": "48673",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%BB%D1%8C",
+        "region": "Орловская область"
+    },
+    {
+        "title": "Азов",
+        "code": "86342",
+        "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%BE%D0%B2",
+        "region": "Ростовская область"
+    },
+    {
+        "title": "Нерехта",
+        "code": "49431",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%B5%D1%85%D1%82%D0%B0_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Костромская область"
+    },
+    {
+        "title": "Хадыженск",
+        "code": "86152",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B4%D1%8B%D0%B6%D0%B5%D0%BD%D1%81%D0%BA",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Кола",
+        "code": "81553",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%B0_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Кингисепп",
+        "code": "81375",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%B3%D0%B8%D1%81%D0%B5%D0%BF%D0%BF",
+        "region": "Ленинградская область"
+    },
+    {
+        "title": "Навашино",
+        "code": "83175",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D0%B0%D1%88%D0%B8%D0%BD%D0%BE",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Анапа",
+        "code": "86133",
+        "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BF%D0%B0",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Пикалёво",
+        "code": "81366",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%B0%D0%BB%D1%91%D0%B2%D0%BE",
+        "region": "Ленинградская область"
+    },
+    {
+        "title": "Щучье",
+        "code": "35244",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A9%D1%83%D1%87%D1%8C%D0%B5_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Курганская область"
+    },
+    {
+        "title": "Крымск",
+        "code": "86131",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Воркута",
+        "code": "82151",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BA%D1%83%D1%82%D0%B0",
+        "region": "Коми"
+    },
+    {
+        "title": "Всеволожск",
+        "code": "81370",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA",
+        "region": "Ленинградская область"
+    },
+    {
+        "title": "Заволжье",
+        "code": "83161",
+        "link": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D0%BE%D0%BB%D0%B6%D1%8C%D0%B5_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Касли",
+        "code": "35149",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D0%BB%D0%B8",
+        "region": "Челябинская область"
+    },
+    {
+        "title": "Горячий Ключ",
+        "code": "86159",
+        "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B9_%D0%9A%D0%BB%D1%8E%D1%87",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Тихорецк",
+        "code": "86196",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%85%D0%BE%D1%80%D0%B5%D1%86%D0%BA",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Ивангород",
+        "code": "81375",
+        "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD%D0%B3%D0%BE%D1%80%D0%BE%D0%B4",
+        "region": "Ленинградская область"
+    },
+    {
+        "title": "Кострома",
+        "code": "4942",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BC%D0%B0",
+        "region": "Костромская область"
+    },
+    {
+        "title": "Камышлов",
+        "code": "34375",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D1%8B%D1%88%D0%BB%D0%BE%D0%B2",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Лабинск",
+        "code": "86169",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B1%D0%B8%D0%BD%D1%81%D0%BA",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Новотроицк",
+        "code": "3537",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%82%D1%80%D0%BE%D0%B8%D1%86%D0%BA",
+        "region": "Оренбургская область"
+    },
+    {
+        "title": "Заречный",
+        "code": "34377",
+        "link": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_(%D0%A1%D0%B2%D0%B5%D1%80%D0%B4%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Волгореченск",
+        "code": "49453",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA",
+        "region": "Костромская область"
+    },
+    {
+        "title": "Павловский Посад",
+        "code": "49643",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%BE%D1%81%D0%B0%D0%B4",
+        "region": "Московская область"
+    },
+    {
+        "title": "Сорочинск",
+        "code": "35346",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%BE%D1%87%D0%B8%D0%BD%D1%81%D0%BA",
+        "region": "Оренбургская область"
+    },
+    {
+        "title": "Константиновск",
+        "code": "86393",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D1%81%D0%BA",
+        "region": "Ростовская область"
+    },
+    {
+        "title": "Бородино",
+        "code": "39168",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%BE_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Красноярский край"
+    },
+    {
+        "title": "Снежногорск",
+        "code": "81530",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BD%D0%B5%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA_(%D0%9C%D1%83%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Вуктыл",
+        "code": "82146",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%BA%D1%82%D1%8B%D0%BB",
+        "region": "Коми"
+    },
+    {
+        "title": "Курск",
+        "code": "4712",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%81%D0%BA",
+        "region": "Курская область"
+    },
+    {
+        "title": "Артёмовский",
+        "code": "34363",
+        "link": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Сочи",
+        "code": "862",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%87%D0%B8",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Саров",
+        "code": "83130",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BE%D0%B2",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Туймазы",
+        "code": "34782",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%B9%D0%BC%D0%B0%D0%B7%D1%8B",
+        "region": "Башкортостан"
+    },
+    {
+        "title": "Балахна",
+        "code": "83144",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%B0%D1%85%D0%BD%D0%B0",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Углич",
+        "code": "48532",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B3%D0%BB%D0%B8%D1%87",
+        "region": "Ярославская область"
+    },
+    {
+        "title": "Кирово-Чепецк",
+        "code": "83361",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%BE-%D0%A7%D0%B5%D0%BF%D0%B5%D1%86%D0%BA",
+        "region": "Кировская область"
+    },
+    {
+        "title": "Цимлянск",
+        "code": "86391",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BC%D0%BB%D1%8F%D0%BD%D1%81%D0%BA",
+        "region": "Ростовская область"
+    },
+    {
+        "title": "Чудово",
+        "code": "81665",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A7%D1%83%D0%B4%D0%BE%D0%B2%D0%BE",
+        "region": "Новгородская область"
+    },
+    {
+        "title": "Мончегорск",
+        "code": "815",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D1%87%D0%B5%D0%B3%D0%BE%D1%80%D1%81%D0%BA",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Глазов",
+        "code": "34141",
+        "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B7%D0%BE%D0%B2",
+        "region": "Удмуртия"
+    },
+    {
+        "title": "Талдом",
+        "code": "49620",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D0%B4%D0%BE%D0%BC",
+        "region": "Московская область"
+    },
+    {
+        "title": "Курчатов",
+        "code": "47131",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%87%D0%B0%D1%82%D0%BE%D0%B2_(%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)",
+        "region": "Курская область"
+    },
+    {
+        "title": "Электрогорск",
+        "code": "49643",
+        "link": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA",
+        "region": "Московская область"
+    },
+    {
+        "title": "Мариинский Посад",
+        "code": "835",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%BE%D1%81%D0%B0%D0%B4",
+        "region": "Чувашия"
+    },
+    {
+        "title": "Янаул",
+        "code": "34760",
+        "link": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B0%D1%83%D0%BB",
+        "region": "Башкортостан"
+    },
+    {
+        "title": "Новороссийск",
+        "code": "8617",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA",
+        "region": "Краснодарский край"
+    },
+    {
+        "title": "Сургут",
+        "code": "3462",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%80%D0%B3%D1%83%D1%82",
+        "region": "Ханты-Мансийский АО — Югра"
+    },
+    {
+        "title": "Лукоянов",
+        "code": "83196",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%BA%D0%BE%D1%8F%D0%BD%D0%BE%D0%B2",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Белая Калитва",
+        "code": "86383",
+        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_%D0%9A%D0%B0%D0%BB%D0%B8%D1%82%D0%B2%D0%B0",
+        "region": "Ростовская область"
+    },
+    {
+        "title": "Рыбинск",
+        "code": "4855",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A0%D1%8B%D0%B1%D0%B8%D0%BD%D1%81%D0%BA",
+        "region": "Ярославская область"
+    },
+    {
+        "title": "Сарапул",
+        "code": "34147",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D0%BF%D1%83%D0%BB",
+        "region": "Удмуртия"
+    },
+    {
+        "title": "Семёнов",
+        "code": "83162",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+        "region": "Нижегородская область"
+    },
+    {
+        "title": "Нижний Тагил",
+        "code": "3435",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%A2%D0%B0%D0%B3%D0%B8%D0%BB",
+        "region": "Свердловская область"
+    },
+    {
+        "title": "Великий Новгород",
+        "code": "8162",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4",
+        "region": "Новгородская область"
+    },
+    {
+        "title": "Кандалакша",
+        "code": "81533",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB%D0%B0%D0%BA%D1%88%D0%B0",
+        "region": "Мурманская область"
+    },
+    {
+        "title": "Ярославль",
+        "code": "4852",
+        "link": "https://ru.wikipedia.org/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C",
+        "region": "Ярославская область"
+    },
+    {
+        "title": "Сергиев Посад",
+        "code": "496",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D0%B5%D0%B2_%D0%9F%D0%BE%D1%81%D0%B0%D0%B4",
+        "region": "Московская область"
+    },
+    {
+        "title": "Старый Оскол",
+        "code": "4725",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%9E%D1%81%D0%BA%D0%BE%D0%BB",
+        "region": "Белгородская область"
+    },
+    {
+        "title": "Уфа",
+        "code": "347",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A3%D1%84%D0%B0",
+        "region": "Башкортостан"
+    }
+]
