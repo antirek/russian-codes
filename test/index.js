@@ -103,7 +103,7 @@ describe('Codes', function () {
 
     it('get all counties', function () {
         codes.getCounties(function (err, array) {
-          expect(array.length).to.eql(9);
+          expect(array.length).to.eql(8);
         });
     });
 
